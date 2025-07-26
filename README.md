@@ -3,6 +3,13 @@
 **DressFit** is a virtual try-on application that helps users visualize how various dresses would look on a 3D avatar customized to their body measurements.  
 No AR is used — just a realistic avatar and a range of outfit styles to try virtually before making a decision.
 
+## 🎯 Main Motive
+
+DressFit is built specifically for **garment shops** to enhance the online shopping experience.  
+It allows users to:
+- View and try different outfits on a personalized avatar
+- See how the dresses fit virtually
+- Select and **place an order** with confidence
 ## ✨ Features
 
 - 🎯 User-customized 3D avatars (based on height, chest, waist, etc.)
