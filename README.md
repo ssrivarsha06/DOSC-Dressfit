@@ -27,9 +27,10 @@ It allows users to:
 
 ## 👥 Contributors
 
-- Ramya Nakshathra  [LinkedIn](https://www.linkedin.com/in/ramya-nakshathra/)
+- Ramya Nakshathra  [LinkedIn](https://www.linkedin.com/in/ramya-nakshathra/) Contribution:
+Implemented 3D Avatar Scaling Logic in DressFit (User Input-Based). Contributed to the backend development.
+
 - Srivarsha  [LinkedIn](https://www.linkedin.com/in/srivarsha-sivakumar-454924269/)
 - Shruti  [LinkedIn](https://www.linkedin.com/in/shrutiselvakkumar/)
 - Thejeesh [LinkedIn](https://www.linkedin.com/in/thejeesh-g-a53a40337/)
-
 
